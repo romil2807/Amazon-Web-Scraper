@@ -1,5 +1,6 @@
 # Amazon-Web-Scraper
-Scrape all products from the URL
+Scrape all products from the URL: https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2C283&ref=sr_pg_1
+
 # Part 1
 Items to scrape
 • Product URL
